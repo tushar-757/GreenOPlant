@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/tushar-757.github.io/static/css/main.9fc9b1c2.chunk.css",
-    "main.js": "/tushar-757.github.io/static/js/main.fa991b0a.chunk.js",
-    "main.js.map": "/tushar-757.github.io/static/js/main.fa991b0a.chunk.js.map",
-    "runtime-main.js": "/tushar-757.github.io/static/js/runtime-main.0d3a911f.js",
-    "runtime-main.js.map": "/tushar-757.github.io/static/js/runtime-main.0d3a911f.js.map",
-    "static/css/2.613d3f88.chunk.css": "/tushar-757.github.io/static/css/2.613d3f88.chunk.css",
-    "static/js/2.7d4ea09f.chunk.js": "/tushar-757.github.io/static/js/2.7d4ea09f.chunk.js",
-    "static/js/2.7d4ea09f.chunk.js.map": "/tushar-757.github.io/static/js/2.7d4ea09f.chunk.js.map",
-    "static/js/3.6fd4f22b.chunk.js": "/tushar-757.github.io/static/js/3.6fd4f22b.chunk.js",
-    "static/js/3.6fd4f22b.chunk.js.map": "/tushar-757.github.io/static/js/3.6fd4f22b.chunk.js.map",
-    "index.html": "/tushar-757.github.io/index.html",
-    "static/css/2.613d3f88.chunk.css.map": "/tushar-757.github.io/static/css/2.613d3f88.chunk.css.map",
-    "static/css/main.9fc9b1c2.chunk.css.map": "/tushar-757.github.io/static/css/main.9fc9b1c2.chunk.css.map",
-    "static/js/2.7d4ea09f.chunk.js.LICENSE.txt": "/tushar-757.github.io/static/js/2.7d4ea09f.chunk.js.LICENSE.txt",
-    "static/media/notifications.css": "/tushar-757.github.io/static/media/notification.c5d9251e.ttf"
+    "main.css": "/GreenOPlant/static/css/main.9fc9b1c2.chunk.css",
+    "main.js": "/GreenOPlant/static/js/main.fa991b0a.chunk.js",
+    "main.js.map": "/GreenOPlant/static/js/main.fa991b0a.chunk.js.map",
+    "runtime-main.js": "/GreenOPlant/static/js/runtime-main.795a9a2e.js",
+    "runtime-main.js.map": "/GreenOPlant/static/js/runtime-main.795a9a2e.js.map",
+    "static/css/2.8022f73f.chunk.css": "/GreenOPlant/static/css/2.8022f73f.chunk.css",
+    "static/js/2.bb211cdb.chunk.js": "/GreenOPlant/static/js/2.bb211cdb.chunk.js",
+    "static/js/2.bb211cdb.chunk.js.map": "/GreenOPlant/static/js/2.bb211cdb.chunk.js.map",
+    "static/js/3.6fd4f22b.chunk.js": "/GreenOPlant/static/js/3.6fd4f22b.chunk.js",
+    "static/js/3.6fd4f22b.chunk.js.map": "/GreenOPlant/static/js/3.6fd4f22b.chunk.js.map",
+    "index.html": "/GreenOPlant/index.html",
+    "static/css/2.8022f73f.chunk.css.map": "/GreenOPlant/static/css/2.8022f73f.chunk.css.map",
+    "static/css/main.9fc9b1c2.chunk.css.map": "/GreenOPlant/static/css/main.9fc9b1c2.chunk.css.map",
+    "static/js/2.bb211cdb.chunk.js.LICENSE.txt": "/GreenOPlant/static/js/2.bb211cdb.chunk.js.LICENSE.txt",
+    "static/media/notifications.css": "/GreenOPlant/static/media/notification.c5d9251e.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.0d3a911f.js",
-    "static/css/2.613d3f88.chunk.css",
-    "static/js/2.7d4ea09f.chunk.js",
+    "static/js/runtime-main.795a9a2e.js",
+    "static/css/2.8022f73f.chunk.css",
+    "static/js/2.bb211cdb.chunk.js",
     "static/css/main.9fc9b1c2.chunk.css",
     "static/js/main.fa991b0a.chunk.js"
   ]
