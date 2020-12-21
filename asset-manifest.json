@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/GreenOPlant/static/css/main.9fc9b1c2.chunk.css",
-    "main.js": "/GreenOPlant/static/js/main.fa991b0a.chunk.js",
-    "main.js.map": "/GreenOPlant/static/js/main.fa991b0a.chunk.js.map",
+    "main.js": "/GreenOPlant/static/js/main.d60aa23c.chunk.js",
+    "main.js.map": "/GreenOPlant/static/js/main.d60aa23c.chunk.js.map",
     "runtime-main.js": "/GreenOPlant/static/js/runtime-main.795a9a2e.js",
     "runtime-main.js.map": "/GreenOPlant/static/js/runtime-main.795a9a2e.js.map",
     "static/css/2.8022f73f.chunk.css": "/GreenOPlant/static/css/2.8022f73f.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.8022f73f.chunk.css",
     "static/js/2.bb211cdb.chunk.js",
     "static/css/main.9fc9b1c2.chunk.css",
-    "static/js/main.fa991b0a.chunk.js"
+    "static/js/main.d60aa23c.chunk.js"
   ]
 }
